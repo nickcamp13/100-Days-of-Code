@@ -2,6 +2,7 @@ from turtle import Turtle, Screen, colormode
 import heroes
 from random import randint, seed
 
+
 def random_color():
     red = randint(0, 255)
     green = randint(0, 255)
